@@ -2,8 +2,7 @@
 
 ----
 ### DANGER!
-When using a switch for you project, you must be super careful of choosing one that canthe Voltage and Amperage your electrical equipment will operate. 
-Using the wrong switch could be dangerous.
+When choosing a switch for your project, it’s essential to ensure it is properly rated for the voltage and current of the equipment you plan to control. Using a switch that isn’t designed to handle the electrical load can lead to overheating, arcing, component failure, fire, or **electric shock(!)**. Always check the manufacturer’s specifications and use only switches suitable for the task.
 
 
 ----
