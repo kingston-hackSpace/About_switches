@@ -1,4 +1,4 @@
-# About switches (work-in-progress)
+# About switches
 
 ----
 ### DANGER!
