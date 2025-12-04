@@ -67,6 +67,6 @@ See [reference image]
 ----
 ### Casing a Toggle Switch
 
-Switch mesuarements : [reference image]
+Switch measurements : [reference image]
 
-Case mesuarements : [reference image]
+Case measurements : [reference image]
