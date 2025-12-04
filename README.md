@@ -11,7 +11,7 @@ Always check the manufacturer’s specifications and use only switches suitable 
 
 Example: 
 
-[This switch] is rated for 12V and a maximum of 25A. Applying a higher voltage/amperage can be extremely dangerous.
+[This switch] is rated for 12-24V and a maximum of 25A. Applying a higher voltage/amperage can be extremely dangerous.
 
 ----
 ### Types of switches:
