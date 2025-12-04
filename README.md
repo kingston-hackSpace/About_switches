@@ -38,7 +38,7 @@ Example:
 ----
 # TOGGLE SWITCH
 ----
-### Toggle Switches EXAMPLES
+### EXAMPLES
 
 **Low Voltage 12V Toggle Switches:**
 
