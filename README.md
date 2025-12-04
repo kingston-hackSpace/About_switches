@@ -11,7 +11,7 @@ Always check the manufacturer’s specifications and use only switches suitable 
 
 Example: 
 
-[This switch] is rated for 12-24V and a maximum of 25A. Applying a higher voltage/amperage can be extremely dangerous.
+[This switch](https://github.com/kingston-hackSpace/About_switches/blob/main/dataSheet.jpg) is rated for 12-24V and a maximum of 25A. Applying a higher voltage/amperage can be extremely dangerous.
 
 ----
 ### Types of switches:
@@ -66,16 +66,16 @@ Example:
 ----
 ### How to wire your Toggle Switch for an ON/OFF connection
 
-See [reference image]
+See [reference image](https://github.com/kingston-hackSpace/About_switches/blob/main/Wiring_Switch.jpg)
 
 ----
 ### Indoor/Outdoor Toggle Switch setup
 
-See [reference image]
+See [reference image](https://github.com/kingston-hackSpace/About_switches/blob/main/Indoor-Outdoor.jpg)
 
 ----
-### Casing a Toggle Switch
+### Casing a Toggle Switch :  EXAMPLE
 
-Switch measurements : [reference image]
+Switch measurements : [reference image](https://github.com/kingston-hackSpace/About_switches/blob/main/Switch-measurements.jpg)
 
-Case measurements : [reference image]
+Case measurements : [reference image](https://github.com/kingston-hackSpace/About_switches/blob/main/case-measurements.jpg)
