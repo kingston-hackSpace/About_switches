@@ -26,7 +26,8 @@ When choosing a switch for your project, it’s essential to ensure it is proper
 
 [Piezo vs Capacitive Switches](https://www.switchelectronics.co.uk/blogs/news/piezo-vs-capacitive-switches-whats-the-difference)
 
-
+----
+# TOGGLE SWITCH
 ----
 ### Toggle Switches EXAMPLES
 
@@ -51,3 +52,21 @@ When choosing a switch for your project, it’s essential to ensure it is proper
   - [240V 20A Wall Toggle Switch](https://www.screwfix.com/p/lap-20a-16ax-2-gang-2-way-toggle-switch-black-nickel/379pn#product_additional_details_container)
   
   - [250V 3A Miniature SPDT Toggle Switch](https://kitronik.co.uk/products/miniature-spdt-toggle-switch?variant=31813626298431&country=GB&currency=GBP)
+
+
+----
+### How to wire your Toggle Switch for an ON/OFF connection
+
+See [reference image]
+
+----
+### Indoor/Outdoor Toggle Switch setup
+
+See [reference image]
+
+----
+### Casing a Toggle Switch
+
+Switch mesuarements : [reference image]
+
+Case mesuarements : [reference image]
