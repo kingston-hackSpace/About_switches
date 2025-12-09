@@ -38,7 +38,24 @@ Example:
 ----
 # TOGGLE SWITCH
 ----
-### EXAMPLES
+### How to wire your Toggle Switch for an ON/OFF connection
+
+See [reference image](https://github.com/kingston-hackSpace/About_switches/blob/main/Wiring_Switch.jpg)
+
+----
+### Indoor/Outdoor Toggle Switch setup
+
+See [reference image](https://github.com/kingston-hackSpace/About_switches/blob/main/Indoor-Outdoor.jpg)
+
+----
+### Casing a Toggle Switch :  EXAMPLE
+
+Switch measurements : [reference image](https://github.com/kingston-hackSpace/About_switches/blob/main/Switch-measurements.jpg)
+
+Case measurements : [reference image](https://github.com/kingston-hackSpace/About_switches/blob/main/case-measurements.jpg)
+
+----
+### Purchasing a Toggle Switch (examples)
 
 **Low Voltage 12V Toggle Switches:**
 
@@ -61,21 +78,3 @@ Example:
   - [240V 20A Wall Toggle Switch](https://www.screwfix.com/p/lap-20a-16ax-2-gang-2-way-toggle-switch-black-nickel/379pn#product_additional_details_container)
   
   - [250V 3A Miniature SPDT Toggle Switch](https://kitronik.co.uk/products/miniature-spdt-toggle-switch?variant=31813626298431&country=GB&currency=GBP)
-
-
-----
-### How to wire your Toggle Switch for an ON/OFF connection
-
-See [reference image](https://github.com/kingston-hackSpace/About_switches/blob/main/Wiring_Switch.jpg)
-
-----
-### Indoor/Outdoor Toggle Switch setup
-
-See [reference image](https://github.com/kingston-hackSpace/About_switches/blob/main/Indoor-Outdoor.jpg)
-
-----
-### Casing a Toggle Switch :  EXAMPLE
-
-Switch measurements : [reference image](https://github.com/kingston-hackSpace/About_switches/blob/main/Switch-measurements.jpg)
-
-Case measurements : [reference image](https://github.com/kingston-hackSpace/About_switches/blob/main/case-measurements.jpg)
