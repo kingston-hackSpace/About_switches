@@ -36,6 +36,11 @@ Example:
 [Piezo vs Capacitive Switches](https://www.switchelectronics.co.uk/blogs/news/piezo-vs-capacitive-switches-whats-the-difference)
 
 ----
+# LIMIT SWITCH
+
+See [tutorial here](https://arduinogetstarted.com/tutorials/arduino-limit-switch)
+
+----
 # TOGGLE SWITCH
 ----
 ### How to wire your Toggle Switch for an ON/OFF connection
